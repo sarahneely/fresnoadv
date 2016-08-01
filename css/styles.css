@@ -1,0 +1,80 @@
+body {
+  background: fixed;
+  background-image: url(../images/downtown-fresno-skyline..jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+/*=========HEADER============*/
+#Top {
+
+}
+
+.navbar-default {
+  background-color: transparent !important;
+  border-color: transparent !important;
+  color: rgb(130,38,31);
+}
+
+.top_nav {
+  font-family: 'Raleway', sans-serif;
+  color: rgb(130, 38, 31);
+  font-size: 18px;
+}
+
+h1 {
+  font-family: 'Yellowtail', cursive;
+  color: rgb(130, 38, 31);
+  text-align: center;
+  font-size: 72px !important;
+  margin-top: 90px;
+}
+
+/*=========ABOUT=========*/
+#about {
+
+}
+
+.adv_about {
+  margin-top: 500px;
+  background-color: rgba(89, 130, 143, 0.8);
+}
+
+
+h2 {
+  font-family: 'Yellowtail', cursive;
+  color: rgb(130,38,31);
+  text-align: center;
+  font-size: 32px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  color: #f3d8b8;
+}
+
+/*=======PARTNERSHIPS=========*/
+.cont_partner {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+ .partner_images {
+   width: 275px;
+   height: 225px;
+ }
+
+/*==========CONTACT===========*/
+.contact_footer {
+  margin-top: 50px;
+  background-color: rgba(89, 130, 143, 0.8);
+
+}
+
+.address {
+  font-size: 16px;
+  text-align: center;
+  color: #f3d8b8;
+  text-decoration: none;
+  padding-top: 25px;
+}
