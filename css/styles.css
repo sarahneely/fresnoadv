@@ -1,4 +1,4 @@
-body {
+.home_body {
   background: fixed;
   background-image: url(../images/downtown-fresno-skyline..jpg);
   background-repeat: no-repeat;
@@ -81,4 +81,20 @@ p {
   color: #f3d8b8;
   text-decoration: none;
   padding-top: 25px;
+}
+
+/*========BACK PAGES===========*/
+.back_body{
+  background-color: #8fb0be;
+}
+
+.back_logo {
+  padding: 40px;
+  float: right;
+}
+
+.header_contact {
+  text-align: center;
+  font-family: "Raleway" sans-serif;
+  color: #261A0E;
 }
