@@ -23,11 +23,12 @@ body {
 }
 
 h1 {
-  font-family: 'Yellowtail', cursive;
+  font-family: "gioviale",sans-serif;
   color: rgb(130, 38, 31);
   text-align: center;
-  font-size: 72px !important;
+  font-size: 95px !important;
   margin-top: 90px;
+  font-weight: 700;
 }
 
 /*=========ABOUT=========*/
@@ -40,12 +41,15 @@ h1 {
   background-color: rgba(89, 130, 143, 0.8);
 }
 
+.container_about {
+  padding-right: 45px !important;
+}
 
 h2 {
-  font-family: 'Yellowtail', cursive;
+  font-family: "gioviale",sans-serif;
   color: rgb(130,38,31);
   text-align: center;
-  font-size: 32px;
+  font-size: 42px;
 }
 
 p {
