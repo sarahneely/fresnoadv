@@ -95,3 +95,10 @@ p {
   font-family: "Raleway" sans-serif;
   color: #261A0E;
 }
+
+
+/*========FORM PAGE=========*/
+.form_cont {
+  height: 400px;
+  padding: 100px;
+}
